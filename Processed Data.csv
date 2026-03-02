@@ -1,0 +1,897 @@
+Year,Quarter,Area of Residence,Reason for Journey,Visitor Stay Avg,Visitor Spending,Overnight Tourist Trips
+2012,1,France,Business,6.6,9.0,9.0
+2012,2,France,Business,5.8,6.0,6.0
+2012,3,France,Business,9.3,6.0,7.0
+2012,4,France,Business,9.1,5.0,5.0
+2013,1,France,Business,6.0,7.0,8.0
+2013,2,France,Business,5.1,5.0,4.0
+2013,3,France,Business,12.0,6.0,5.0
+2013,4,France,Business,6.7,8.0,5.0
+2014,1,France,Business,7.0,6.0,6.0
+2014,2,France,Business,5.3,9.0,5.0
+2014,3,France,Business,12.3,6.0,4.0
+2014,4,France,Business,7.3,6.0,5.0
+2015,1,France,Business,5.2,8.0,5.0
+2015,2,France,Business,7.9,4.0,3.0
+2015,3,France,Business,10.0,8.0,5.0
+2015,4,France,Business,7.2,6.0,4.0
+2016,1,France,Business,6.8,8.0,6.0
+2016,2,France,Business,4.6,6.0,4.0
+2016,3,France,Business,14.3,9.0,5.0
+2016,4,France,Business,6.6,8.0,5.0
+2017,1,France,Business,8.9,9.0,5.0
+2017,2,France,Business,4.7,10.0,5.0
+2017,3,France,Business,16.2,9.0,4.0
+2017,4,France,Business,16.6,10.0,5.0
+2018,1,France,Business,6.1,9.0,5.0
+2018,2,France,Business,8.3,11.0,4.0
+2018,3,France,Business,12.6,8.0,3.0
+2018,4,France,Business,6.2,6.0,5.0
+2019,1,France,Business,7.4,8.0,5.0
+2019,2,France,Business,6.9,9.0,6.0
+2019,3,France,Business,11.0,5.0,4.0
+2019,4,France,Business,10.0,10.0,5.0
+2012,1,France,Holiday/leisure/recreation,5.4,10.0,5.0
+2012,2,France,Holiday/leisure/recreation,6.7,46.0,10.0
+2012,3,France,Holiday/leisure/recreation,9.8,49.0,8.0
+2012,4,France,Holiday/leisure/recreation,5.3,15.0,5.0
+2013,1,France,Holiday/leisure/recreation,3.9,17.0,9.0
+2013,2,France,Holiday/leisure/recreation,6.2,36.0,9.0
+2013,3,France,Holiday/leisure/recreation,9.2,54.0,7.0
+2013,4,France,Holiday/leisure/recreation,5.3,12.0,5.0
+2014,1,France,Holiday/leisure/recreation,5.3,10.0,6.0
+2014,2,France,Holiday/leisure/recreation,6.8,37.0,9.0
+2014,3,France,Holiday/leisure/recreation,9.2,55.0,8.0
+2014,4,France,Holiday/leisure/recreation,4.4,15.0,6.0
+2015,1,France,Holiday/leisure/recreation,4.4,13.0,8.0
+2015,2,France,Holiday/leisure/recreation,6.6,55.0,9.0
+2015,3,France,Holiday/leisure/recreation,8.8,64.0,7.0
+2015,4,France,Holiday/leisure/recreation,5.5,17.0,6.0
+2016,1,France,Holiday/leisure/recreation,5.6,17.0,6.0
+2016,2,France,Holiday/leisure/recreation,8.1,62.0,9.0
+2016,3,France,Holiday/leisure/recreation,9.2,78.0,7.0
+2016,4,France,Holiday/leisure/recreation,5.4,18.0,5.0
+2017,1,France,Holiday/leisure/recreation,4.8,24.0,8.0
+2017,2,France,Holiday/leisure/recreation,7.3,57.0,8.0
+2017,3,France,Holiday/leisure/recreation,8.8,74.0,7.0
+2017,4,France,Holiday/leisure/recreation,6.7,33.0,6.0
+2018,1,France,Holiday/leisure/recreation,6.0,24.0,6.0
+2018,2,France,Holiday/leisure/recreation,6.7,64.0,8.0
+2018,3,France,Holiday/leisure/recreation,8.4,74.0,7.0
+2018,4,France,Holiday/leisure/recreation,5.2,22.0,5.0
+2019,1,France,Holiday/leisure/recreation,5.0,23.0,8.0
+2019,2,France,Holiday/leisure/recreation,6.3,50.0,7.0
+2019,3,France,Holiday/leisure/recreation,8.9,76.0,6.0
+2019,4,France,Holiday/leisure/recreation,5.3,21.0,6.0
+2012,1,France,Other reason for journey,18.3,4.0,10.0
+2012,2,France,Other reason for journey,24.5,5.0,9.0
+2012,3,France,Other reason for journey,20.7,6.0,6.0
+2012,4,France,Other reason for journey,20.8,6.0,12.0
+2013,1,France,Other reason for journey,31.0,8.0,13.0
+2013,2,France,Other reason for journey,22.9,14.0,15.0
+2013,3,France,Other reason for journey,10.1,9.0,9.0
+2013,4,France,Other reason for journey,28.4,6.0,10.0
+2014,1,France,Other reason for journey,21.0,3.0,9.0
+2014,2,France,Other reason for journey,24.3,11.0,10.0
+2014,3,France,Other reason for journey,11.9,11.0,8.0
+2014,4,France,Other reason for journey,23.6,6.0,8.0
+2015,1,France,Other reason for journey,31.1,7.0,12.0
+2015,2,France,Other reason for journey,22.7,13.0,12.0
+2015,3,France,Other reason for journey,14.8,8.0,10.0
+2015,4,France,Other reason for journey,17.0,9.0,11.0
+2016,1,France,Other reason for journey,20.8,11.0,10.0
+2016,2,France,Other reason for journey,33.8,14.0,12.0
+2016,3,France,Other reason for journey,16.1,8.0,6.0
+2016,4,France,Other reason for journey,16.5,6.0,7.0
+2017,1,France,Other reason for journey,23.9,12.0,13.0
+2017,2,France,Other reason for journey,23.3,7.0,6.0
+2017,3,France,Other reason for journey,11.6,9.0,6.0
+2017,4,France,Other reason for journey,32.8,12.0,10.0
+2018,1,France,Other reason for journey,23.2,9.0,11.0
+2018,2,France,Other reason for journey,26.1,17.0,8.0
+2018,3,France,Other reason for journey,15.6,8.0,5.0
+2018,4,France,Other reason for journey,21.4,9.0,11.0
+2019,1,France,Other reason for journey,18.8,6.0,11.0
+2019,2,France,Other reason for journey,30.5,14.0,12.0
+2019,3,France,Other reason for journey,11.6,8.0,7.0
+2019,4,France,Other reason for journey,22.2,9.0,10.0
+2012,1,France,Visit to friends/relatives,7.4,5.0,4.0
+2012,2,France,Visit to friends/relatives,7.1,6.0,4.0
+2012,3,France,Visit to friends/relatives,8.4,5.0,3.0
+2012,4,France,Visit to friends/relatives,6.8,5.0,3.0
+2013,1,France,Visit to friends/relatives,6.9,5.0,3.0
+2013,2,France,Visit to friends/relatives,6.3,5.0,5.0
+2013,3,France,Visit to friends/relatives,10.4,4.0,2.0
+2013,4,France,Visit to friends/relatives,6.1,6.0,4.0
+2014,1,France,Visit to friends/relatives,7.3,5.0,4.0
+2014,2,France,Visit to friends/relatives,9.2,7.0,4.0
+2014,3,France,Visit to friends/relatives,7.2,7.0,3.0
+2014,4,France,Visit to friends/relatives,6.8,7.0,4.0
+2015,1,France,Visit to friends/relatives,7.0,5.0,4.0
+2015,2,France,Visit to friends/relatives,6.0,6.0,4.0
+2015,3,France,Visit to friends/relatives,8.8,5.0,2.0
+2015,4,France,Visit to friends/relatives,5.7,8.0,5.0
+2016,1,France,Visit to friends/relatives,6.0,6.0,4.0
+2016,2,France,Visit to friends/relatives,7.1,9.0,4.0
+2016,3,France,Visit to friends/relatives,9.8,7.0,3.0
+2016,4,France,Visit to friends/relatives,6.6,6.0,4.0
+2017,1,France,Visit to friends/relatives,7.8,7.0,4.0
+2017,2,France,Visit to friends/relatives,5.6,9.0,4.0
+2017,3,France,Visit to friends/relatives,6.6,7.0,3.0
+2017,4,France,Visit to friends/relatives,6.4,8.0,4.0
+2018,1,France,Visit to friends/relatives,8.2,7.0,4.0
+2018,2,France,Visit to friends/relatives,6.2,12.0,4.0
+2018,3,France,Visit to friends/relatives,9.2,6.0,3.0
+2018,4,France,Visit to friends/relatives,6.9,6.0,4.0
+2019,1,France,Visit to friends/relatives,8.1,6.0,3.0
+2019,2,France,Visit to friends/relatives,7.2,7.0,4.0
+2019,3,France,Visit to friends/relatives,10.0,9.0,3.0
+2019,4,France,Visit to friends/relatives,5.0,7.0,4.0
+2012,1,Germany,Business,5.8,6.0,7.0
+2012,2,Germany,Business,4.9,5.0,5.0
+2012,3,Germany,Business,4.6,4.0,5.0
+2012,4,Germany,Business,6.4,7.0,8.0
+2013,1,Germany,Business,7.7,6.0,6.0
+2013,2,Germany,Business,5.7,9.0,5.0
+2013,3,Germany,Business,6.9,6.0,6.0
+2013,4,Germany,Business,8.8,14.0,8.0
+2014,1,Germany,Business,7.9,7.0,6.0
+2014,2,Germany,Business,12.1,14.0,5.0
+2014,3,Germany,Business,7.6,6.0,5.0
+2014,4,Germany,Business,6.8,10.0,6.0
+2015,1,Germany,Business,6.0,9.0,6.0
+2015,2,Germany,Business,10.1,14.0,7.0
+2015,3,Germany,Business,7.0,7.0,5.0
+2015,4,Germany,Business,4.9,9.0,5.0
+2016,1,Germany,Business,6.2,8.0,7.0
+2016,2,Germany,Business,5.9,15.0,6.0
+2016,3,Germany,Business,5.0,9.0,6.0
+2016,4,Germany,Business,9.0,10.0,7.0
+2017,1,Germany,Business,5.6,8.0,6.0
+2017,2,Germany,Business,3.0,12.0,6.0
+2017,3,Germany,Business,4.9,10.0,6.0
+2017,4,Germany,Business,6.6,13.0,7.0
+2018,1,Germany,Business,7.0,11.0,7.0
+2018,2,Germany,Business,7.4,9.0,5.0
+2018,3,Germany,Business,6.0,14.0,6.0
+2018,4,Germany,Business,6.4,21.0,9.0
+2019,1,Germany,Business,5.0,12.0,8.0
+2019,2,Germany,Business,8.7,13.0,6.0
+2019,3,Germany,Business,7.5,18.0,6.0
+2019,4,Germany,Business,7.4,12.0,5.0
+2012,1,Germany,Holiday/leisure/recreation,6.5,10.0,5.0
+2012,2,Germany,Holiday/leisure/recreation,7.6,54.0,11.0
+2012,3,Germany,Holiday/leisure/recreation,9.0,69.0,12.0
+2012,4,Germany,Holiday/leisure/recreation,6.1,25.0,9.0
+2013,1,Germany,Holiday/leisure/recreation,6.4,21.0,8.0
+2013,2,Germany,Holiday/leisure/recreation,8.3,69.0,11.0
+2013,3,Germany,Holiday/leisure/recreation,10.0,82.0,11.0
+2013,4,Germany,Holiday/leisure/recreation,6.1,24.0,9.0
+2014,1,Germany,Holiday/leisure/recreation,5.0,15.0,8.0
+2014,2,Germany,Holiday/leisure/recreation,8.1,85.0,12.0
+2014,3,Germany,Holiday/leisure/recreation,9.6,106.0,12.0
+2014,4,Germany,Holiday/leisure/recreation,6.3,26.0,9.0
+2015,1,Germany,Holiday/leisure/recreation,5.3,19.0,8.0
+2015,2,Germany,Holiday/leisure/recreation,9.2,118.0,12.0
+2015,3,Germany,Holiday/leisure/recreation,9.1,125.0,12.0
+2015,4,Germany,Holiday/leisure/recreation,5.7,32.0,10.0
+2016,1,Germany,Holiday/leisure/recreation,5.3,21.0,7.0
+2016,2,Germany,Holiday/leisure/recreation,8.1,94.0,11.0
+2016,3,Germany,Holiday/leisure/recreation,9.9,135.0,11.0
+2016,4,Germany,Holiday/leisure/recreation,6.2,35.0,9.0
+2017,1,Germany,Holiday/leisure/recreation,6.5,20.0,7.0
+2017,2,Germany,Holiday/leisure/recreation,7.9,105.0,11.0
+2017,3,Germany,Holiday/leisure/recreation,9.4,123.0,10.0
+2017,4,Germany,Holiday/leisure/recreation,6.1,41.0,8.0
+2018,1,Germany,Holiday/leisure/recreation,5.7,29.0,9.0
+2018,2,Germany,Holiday/leisure/recreation,7.5,121.0,11.0
+2018,3,Germany,Holiday/leisure/recreation,9.1,148.0,11.0
+2018,4,Germany,Holiday/leisure/recreation,6.6,46.0,9.0
+2019,1,Germany,Holiday/leisure/recreation,5.1,27.0,8.0
+2019,2,Germany,Holiday/leisure/recreation,7.1,116.0,11.0
+2019,3,Germany,Holiday/leisure/recreation,8.8,131.0,10.0
+2019,4,Germany,Holiday/leisure/recreation,5.6,46.0,9.0
+2012,1,Germany,Other reason for journey,35.8,4.0,7.0
+2012,2,Germany,Other reason for journey,18.0,9.0,9.0
+2012,3,Germany,Other reason for journey,21.8,5.0,3.0
+2012,4,Germany,Other reason for journey,24.7,12.0,13.0
+2013,1,Germany,Other reason for journey,48.1,3.0,4.0
+2013,2,Germany,Other reason for journey,20.5,11.0,8.0
+2013,3,Germany,Other reason for journey,21.8,7.0,6.0
+2013,4,Germany,Other reason for journey,29.2,7.0,13.0
+2014,1,Germany,Other reason for journey,39.0,6.0,13.0
+2014,2,Germany,Other reason for journey,19.9,15.0,13.0
+2014,3,Germany,Other reason for journey,19.5,5.0,7.0
+2014,4,Germany,Other reason for journey,25.4,7.0,11.0
+2015,1,Germany,Other reason for journey,47.3,8.0,10.0
+2015,2,Germany,Other reason for journey,28.1,8.0,7.0
+2015,3,Germany,Other reason for journey,13.2,6.0,5.0
+2015,4,Germany,Other reason for journey,33.3,17.0,9.0
+2016,1,Germany,Other reason for journey,28.4,7.0,9.0
+2016,2,Germany,Other reason for journey,22.4,6.0,6.0
+2016,3,Germany,Other reason for journey,11.3,9.0,7.0
+2016,4,Germany,Other reason for journey,20.0,6.0,6.0
+2017,1,Germany,Other reason for journey,23.2,5.0,6.0
+2017,2,Germany,Other reason for journey,12.4,10.0,9.0
+2017,3,Germany,Other reason for journey,8.5,6.0,8.0
+2017,4,Germany,Other reason for journey,26.5,17.0,12.0
+2018,1,Germany,Other reason for journey,17.3,7.0,8.0
+2018,2,Germany,Other reason for journey,10.1,11.0,8.0
+2018,3,Germany,Other reason for journey,4.3,5.0,5.0
+2018,4,Germany,Other reason for journey,10.5,11.0,12.0
+2019,1,Germany,Other reason for journey,14.0,9.0,8.0
+2019,2,Germany,Other reason for journey,13.2,8.0,8.0
+2019,3,Germany,Other reason for journey,3.6,8.0,13.0
+2019,4,Germany,Other reason for journey,13.5,14.0,11.0
+2012,1,Germany,Visit to friends/relatives,7.8,7.0,6.0
+2012,2,Germany,Visit to friends/relatives,7.1,4.0,3.0
+2012,3,Germany,Visit to friends/relatives,8.9,4.0,3.0
+2012,4,Germany,Visit to friends/relatives,4.7,3.0,3.0
+2013,1,Germany,Visit to friends/relatives,8.7,8.0,5.0
+2013,2,Germany,Visit to friends/relatives,8.2,5.0,3.0
+2013,3,Germany,Visit to friends/relatives,7.8,6.0,3.0
+2013,4,Germany,Visit to friends/relatives,6.5,8.0,4.0
+2014,1,Germany,Visit to friends/relatives,7.8,8.0,5.0
+2014,2,Germany,Visit to friends/relatives,7.9,9.0,4.0
+2014,3,Germany,Visit to friends/relatives,9.4,7.0,3.0
+2014,4,Germany,Visit to friends/relatives,5.9,8.0,5.0
+2015,1,Germany,Visit to friends/relatives,7.2,5.0,4.0
+2015,2,Germany,Visit to friends/relatives,10.6,7.0,4.0
+2015,3,Germany,Visit to friends/relatives,7.9,6.0,3.0
+2015,4,Germany,Visit to friends/relatives,6.7,9.0,5.0
+2016,1,Germany,Visit to friends/relatives,7.1,8.0,5.0
+2016,2,Germany,Visit to friends/relatives,6.1,7.0,3.0
+2016,3,Germany,Visit to friends/relatives,7.5,6.0,2.0
+2016,4,Germany,Visit to friends/relatives,6.7,11.0,4.0
+2017,1,Germany,Visit to friends/relatives,9.2,7.0,4.0
+2017,2,Germany,Visit to friends/relatives,6.3,7.0,3.0
+2017,3,Germany,Visit to friends/relatives,7.9,8.0,3.0
+2017,4,Germany,Visit to friends/relatives,6.4,8.0,4.0
+2018,1,Germany,Visit to friends/relatives,6.6,8.0,4.0
+2018,2,Germany,Visit to friends/relatives,6.7,12.0,6.0
+2018,3,Germany,Visit to friends/relatives,6.7,8.0,3.0
+2018,4,Germany,Visit to friends/relatives,6.4,7.0,4.0
+2019,1,Germany,Visit to friends/relatives,8.3,5.0,4.0
+2019,2,Germany,Visit to friends/relatives,6.4,13.0,5.0
+2019,3,Germany,Visit to friends/relatives,6.9,7.0,3.0
+2019,4,Germany,Visit to friends/relatives,5.2,9.0,5.0
+2012,1,Great Britain,Business,2.7,57.0,52.0
+2012,2,Great Britain,Business,2.7,58.0,53.0
+2012,3,Great Britain,Business,2.8,50.0,49.0
+2012,4,Great Britain,Business,3.3,52.0,45.0
+2013,1,Great Britain,Business,2.9,58.0,51.0
+2013,2,Great Britain,Business,2.5,47.0,49.0
+2013,3,Great Britain,Business,2.8,45.0,53.0
+2013,4,Great Britain,Business,3.3,54.0,47.0
+2014,1,Great Britain,Business,2.6,47.0,51.0
+2014,2,Great Britain,Business,2.8,62.0,46.0
+2014,3,Great Britain,Business,3.0,44.0,45.0
+2014,4,Great Britain,Business,3.0,53.0,49.0
+2015,1,Great Britain,Business,2.4,51.0,47.0
+2015,2,Great Britain,Business,3.0,52.0,45.0
+2015,3,Great Britain,Business,2.7,59.0,51.0
+2015,4,Great Britain,Business,2.6,64.0,49.0
+2016,1,Great Britain,Business,2.4,48.0,47.0
+2016,2,Great Britain,Business,2.8,66.0,47.0
+2016,3,Great Britain,Business,2.7,57.0,46.0
+2016,4,Great Britain,Business,3.3,63.0,47.0
+2017,1,Great Britain,Business,2.8,47.0,47.0
+2017,2,Great Britain,Business,3.9,60.0,39.0
+2017,3,Great Britain,Business,4.2,62.0,47.0
+2017,4,Great Britain,Business,3.4,55.0,42.0
+2018,1,Great Britain,Business,3.0,56.0,46.0
+2018,2,Great Britain,Business,2.4,54.0,43.0
+2018,3,Great Britain,Business,3.2,61.0,45.0
+2018,4,Great Britain,Business,2.8,56.0,43.0
+2019,1,Great Britain,Business,2.6,57.0,48.0
+2019,2,Great Britain,Business,3.1,55.0,41.0
+2019,3,Great Britain,Business,3.3,55.0,40.0
+2019,4,Great Britain,Business,2.9,53.0,44.0
+2012,1,Great Britain,Holiday/leisure/recreation,3.9,52.0,42.0
+2012,2,Great Britain,Holiday/leisure/recreation,4.4,82.0,29.0
+2012,3,Great Britain,Holiday/leisure/recreation,5.8,101.0,27.0
+2012,4,Great Britain,Holiday/leisure/recreation,4.5,60.0,35.0
+2013,1,Great Britain,Holiday/leisure/recreation,4.0,51.0,34.0
+2013,2,Great Britain,Holiday/leisure/recreation,4.9,83.0,29.0
+2013,3,Great Britain,Holiday/leisure/recreation,6.2,120.0,27.0
+2013,4,Great Britain,Holiday/leisure/recreation,3.9,58.0,34.0
+2014,1,Great Britain,Holiday/leisure/recreation,3.7,60.0,40.0
+2014,2,Great Britain,Holiday/leisure/recreation,4.4,81.0,28.0
+2014,3,Great Britain,Holiday/leisure/recreation,5.8,117.0,25.0
+2014,4,Great Britain,Holiday/leisure/recreation,3.7,80.0,34.0
+2015,1,Great Britain,Holiday/leisure/recreation,3.8,61.0,39.0
+2015,2,Great Britain,Holiday/leisure/recreation,4.4,111.0,27.0
+2015,3,Great Britain,Holiday/leisure/recreation,5.7,141.0,26.0
+2015,4,Great Britain,Holiday/leisure/recreation,3.6,90.0,36.0
+2016,1,Great Britain,Holiday/leisure/recreation,3.5,94.0,44.0
+2016,2,Great Britain,Holiday/leisure/recreation,4.4,114.0,29.0
+2016,3,Great Britain,Holiday/leisure/recreation,5.5,160.0,26.0
+2016,4,Great Britain,Holiday/leisure/recreation,3.6,87.0,33.0
+2017,1,Great Britain,Holiday/leisure/recreation,3.4,74.0,38.0
+2017,2,Great Britain,Holiday/leisure/recreation,4.4,118.0,24.0
+2017,3,Great Britain,Holiday/leisure/recreation,5.6,129.0,23.0
+2017,4,Great Britain,Holiday/leisure/recreation,3.7,89.0,31.0
+2018,1,Great Britain,Holiday/leisure/recreation,3.5,83.0,35.0
+2018,2,Great Britain,Holiday/leisure/recreation,4.1,119.0,24.0
+2018,3,Great Britain,Holiday/leisure/recreation,5.3,130.0,21.0
+2018,4,Great Britain,Holiday/leisure/recreation,3.4,89.0,28.0
+2019,1,Great Britain,Holiday/leisure/recreation,3.3,77.0,33.0
+2019,2,Great Britain,Holiday/leisure/recreation,4.3,115.0,23.0
+2019,3,Great Britain,Holiday/leisure/recreation,5.6,141.0,22.0
+2019,4,Great Britain,Holiday/leisure/recreation,3.6,90.0,30.0
+2012,1,Great Britain,Other reason for journey,5.0,6.0,12.0
+2012,2,Great Britain,Other reason for journey,5.4,8.0,9.0
+2012,3,Great Britain,Other reason for journey,6.6,10.0,7.0
+2012,4,Great Britain,Other reason for journey,3.5,11.0,19.0
+2013,1,Great Britain,Other reason for journey,5.8,10.0,15.0
+2013,2,Great Britain,Other reason for journey,3.0,4.0,6.0
+2013,3,Great Britain,Other reason for journey,2.5,6.0,14.0
+2013,4,Great Britain,Other reason for journey,2.7,5.0,12.0
+2014,1,Great Britain,Other reason for journey,4.7,4.0,17.0
+2014,2,Great Britain,Other reason for journey,2.5,4.0,12.0
+2014,3,Great Britain,Other reason for journey,4.1,9.0,11.0
+2014,4,Great Britain,Other reason for journey,2.6,7.0,21.0
+2015,1,Great Britain,Other reason for journey,3.4,5.0,18.0
+2015,2,Great Britain,Other reason for journey,2.1,7.0,17.0
+2015,3,Great Britain,Other reason for journey,2.2,7.0,15.0
+2015,4,Great Britain,Other reason for journey,1.4,5.0,18.0
+2016,1,Great Britain,Other reason for journey,2.7,5.0,19.0
+2016,2,Great Britain,Other reason for journey,1.4,7.0,14.0
+2016,3,Great Britain,Other reason for journey,1.7,8.0,11.0
+2016,4,Great Britain,Other reason for journey,1.3,8.0,17.0
+2017,1,Great Britain,Other reason for journey,3.2,5.0,14.0
+2017,2,Great Britain,Other reason for journey,2.0,7.0,14.0
+2017,3,Great Britain,Other reason for journey,1.5,7.0,10.0
+2017,4,Great Britain,Other reason for journey,2.1,11.0,13.0
+2018,1,Great Britain,Other reason for journey,1.9,5.0,12.0
+2018,2,Great Britain,Other reason for journey,1.3,4.0,10.0
+2018,3,Great Britain,Other reason for journey,0.7,6.0,12.0
+2018,4,Great Britain,Other reason for journey,1.2,4.0,15.0
+2019,1,Great Britain,Other reason for journey,1.5,5.0,12.0
+2019,2,Great Britain,Other reason for journey,0.9,6.0,9.0
+2019,3,Great Britain,Other reason for journey,0.5,5.0,10.0
+2019,4,Great Britain,Other reason for journey,1.5,8.0,13.0
+2012,1,Great Britain,Visit to friends/relatives,5.7,53.0,56.0
+2012,2,Great Britain,Visit to friends/relatives,5.3,70.0,62.0
+2012,3,Great Britain,Visit to friends/relatives,6.0,86.0,68.0
+2012,4,Great Britain,Visit to friends/relatives,5.0,64.0,60.0
+2013,1,Great Britain,Visit to friends/relatives,5.7,57.0,56.0
+2013,2,Great Britain,Visit to friends/relatives,5.0,59.0,60.0
+2013,3,Great Britain,Visit to friends/relatives,6.6,111.0,63.0
+2013,4,Great Britain,Visit to friends/relatives,5.0,79.0,60.0
+2014,1,Great Britain,Visit to friends/relatives,5.8,61.0,53.0
+2014,2,Great Britain,Visit to friends/relatives,5.1,75.0,57.0
+2014,3,Great Britain,Visit to friends/relatives,6.4,110.0,61.0
+2014,4,Great Britain,Visit to friends/relatives,4.8,71.0,59.0
+2015,1,Great Britain,Visit to friends/relatives,5.5,63.0,58.0
+2015,2,Great Britain,Visit to friends/relatives,4.9,76.0,57.0
+2015,3,Great Britain,Visit to friends/relatives,6.2,101.0,61.0
+2015,4,Great Britain,Visit to friends/relatives,4.8,76.0,54.0
+2016,1,Great Britain,Visit to friends/relatives,5.1,68.0,54.0
+2016,2,Great Britain,Visit to friends/relatives,5.0,82.0,56.0
+2016,3,Great Britain,Visit to friends/relatives,6.1,111.0,61.0
+2016,4,Great Britain,Visit to friends/relatives,5.0,83.0,54.0
+2017,1,Great Britain,Visit to friends/relatives,5.3,73.0,56.0
+2017,2,Great Britain,Visit to friends/relatives,4.9,82.0,55.0
+2017,3,Great Britain,Visit to friends/relatives,6.2,105.0,58.0
+2017,4,Great Britain,Visit to friends/relatives,4.7,85.0,56.0
+2018,1,Great Britain,Visit to friends/relatives,5.2,62.0,53.0
+2018,2,Great Britain,Visit to friends/relatives,4.9,85.0,52.0
+2018,3,Great Britain,Visit to friends/relatives,6.0,95.0,55.0
+2018,4,Great Britain,Visit to friends/relatives,4.7,72.0,54.0
+2019,1,Great Britain,Visit to friends/relatives,5.3,56.0,50.0
+2019,2,Great Britain,Visit to friends/relatives,5.1,78.0,54.0
+2019,3,Great Britain,Visit to friends/relatives,6.1,105.0,56.0
+2019,4,Great Britain,Visit to friends/relatives,4.3,72.0,52.0
+2012,1,Italy,Business,5.7,3.0,2.0
+2012,2,Italy,Business,6.6,2.0,2.0
+2012,3,Italy,Business,5.8,2.0,2.0
+2012,4,Italy,Business,17.9,4.0,3.0
+2013,1,Italy,Business,11.2,6.0,2.0
+2013,2,Italy,Business,11.4,5.0,3.0
+2013,3,Italy,Business,11.2,3.0,2.0
+2013,4,Italy,Business,7.0,5.0,3.0
+2014,1,Italy,Business,12.4,4.0,3.0
+2014,2,Italy,Business,3.6,4.0,4.0
+2014,3,Italy,Business,5.5,4.0,3.0
+2014,4,Italy,Business,13.7,7.0,3.0
+2015,1,Italy,Business,3.0,5.0,3.0
+2015,2,Italy,Business,6.9,5.0,4.0
+2015,3,Italy,Business,17.3,4.0,2.0
+2015,4,Italy,Business,10.7,6.0,3.0
+2016,1,Italy,Business,4.0,4.0,4.0
+2016,2,Italy,Business,12.4,11.0,4.0
+2016,3,Italy,Business,10.9,4.0,2.0
+2016,4,Italy,Business,6.5,6.0,4.0
+2017,1,Italy,Business,7.3,5.0,3.0
+2017,2,Italy,Business,11.4,15.0,5.0
+2017,3,Italy,Business,6.7,7.0,3.0
+2017,4,Italy,Business,18.0,8.0,3.0
+2018,1,Italy,Business,7.9,5.0,3.0
+2018,2,Italy,Business,4.9,6.0,3.0
+2018,3,Italy,Business,9.9,4.0,2.0
+2018,4,Italy,Business,27.1,8.0,3.0
+2019,1,Italy,Business,19.6,5.0,2.0
+2019,2,Italy,Business,6.2,7.0,4.0
+2019,3,Italy,Business,10.4,9.0,5.0
+2019,4,Italy,Business,9.2,4.0,4.0
+2012,1,Italy,Holiday/leisure/recreation,4.0,12.0,7.0
+2012,2,Italy,Holiday/leisure/recreation,5.3,20.0,5.0
+2012,3,Italy,Holiday/leisure/recreation,7.2,19.0,3.0
+2012,4,Italy,Holiday/leisure/recreation,3.9,8.0,3.0
+2013,1,Italy,Holiday/leisure/recreation,3.5,10.0,5.0
+2013,2,Italy,Holiday/leisure/recreation,6.1,12.0,3.0
+2013,3,Italy,Holiday/leisure/recreation,7.5,25.0,4.0
+2013,4,Italy,Holiday/leisure/recreation,7.9,8.0,4.0
+2014,1,Italy,Holiday/leisure/recreation,3.9,7.0,5.0
+2014,2,Italy,Holiday/leisure/recreation,5.4,12.0,4.0
+2014,3,Italy,Holiday/leisure/recreation,10.6,24.0,4.0
+2014,4,Italy,Holiday/leisure/recreation,4.9,8.0,5.0
+2015,1,Italy,Holiday/leisure/recreation,3.9,8.0,5.0
+2015,2,Italy,Holiday/leisure/recreation,4.5,18.0,4.0
+2015,3,Italy,Holiday/leisure/recreation,7.9,38.0,5.0
+2015,4,Italy,Holiday/leisure/recreation,4.8,13.0,5.0
+2016,1,Italy,Holiday/leisure/recreation,3.5,8.0,4.0
+2016,2,Italy,Holiday/leisure/recreation,5.1,22.0,4.0
+2016,3,Italy,Holiday/leisure/recreation,7.8,45.0,5.0
+2016,4,Italy,Holiday/leisure/recreation,6.0,9.0,3.0
+2017,1,Italy,Holiday/leisure/recreation,4.2,12.0,5.0
+2017,2,Italy,Holiday/leisure/recreation,5.8,26.0,4.0
+2017,3,Italy,Holiday/leisure/recreation,7.3,46.0,5.0
+2017,4,Italy,Holiday/leisure/recreation,4.9,12.0,4.0
+2018,1,Italy,Holiday/leisure/recreation,3.6,16.0,5.0
+2018,2,Italy,Holiday/leisure/recreation,4.9,27.0,4.0
+2018,3,Italy,Holiday/leisure/recreation,7.4,55.0,5.0
+2018,4,Italy,Holiday/leisure/recreation,4.3,18.0,5.0
+2019,1,Italy,Holiday/leisure/recreation,5.5,12.0,4.0
+2019,2,Italy,Holiday/leisure/recreation,5.5,19.0,3.0
+2019,3,Italy,Holiday/leisure/recreation,7.7,66.0,5.0
+2019,4,Italy,Holiday/leisure/recreation,5.0,17.0,4.0
+2012,1,Italy,Other reason for journey,10.9,1.0,5.0
+2012,2,Italy,Other reason for journey,13.0,6.0,13.0
+2012,3,Italy,Other reason for journey,14.3,16.0,26.0
+2012,4,Italy,Other reason for journey,17.2,5.0,14.0
+2013,1,Italy,Other reason for journey,18.9,2.0,6.0
+2013,2,Italy,Other reason for journey,10.3,12.0,13.0
+2013,3,Italy,Other reason for journey,18.8,18.0,15.0
+2013,4,Italy,Other reason for journey,20.7,3.0,7.0
+2014,1,Italy,Other reason for journey,8.2,4.0,5.0
+2014,2,Italy,Other reason for journey,33.7,12.0,5.0
+2014,3,Italy,Other reason for journey,15.7,28.0,25.0
+2014,4,Italy,Other reason for journey,24.9,7.0,8.0
+2015,1,Italy,Other reason for journey,15.2,6.0,12.0
+2015,2,Italy,Other reason for journey,27.3,6.0,6.0
+2015,3,Italy,Other reason for journey,15.7,24.0,19.0
+2015,4,Italy,Other reason for journey,22.9,4.0,7.0
+2016,1,Italy,Other reason for journey,10.5,6.0,9.0
+2016,2,Italy,Other reason for journey,9.6,8.0,10.0
+2016,3,Italy,Other reason for journey,15.4,30.0,20.0
+2016,4,Italy,Other reason for journey,7.4,3.0,11.0
+2017,1,Italy,Other reason for journey,11.1,3.0,5.0
+2017,2,Italy,Other reason for journey,16.2,10.0,10.0
+2017,3,Italy,Other reason for journey,15.0,22.0,18.0
+2017,4,Italy,Other reason for journey,23.3,5.0,6.0
+2018,1,Italy,Other reason for journey,16.0,6.0,10.0
+2018,2,Italy,Other reason for journey,20.4,7.0,7.0
+2018,3,Italy,Other reason for journey,12.3,17.0,16.0
+2018,4,Italy,Other reason for journey,17.0,8.0,9.0
+2019,1,Italy,Other reason for journey,12.3,5.0,13.0
+2019,2,Italy,Other reason for journey,9.0,5.0,11.0
+2019,3,Italy,Other reason for journey,9.9,10.0,13.0
+2019,4,Italy,Other reason for journey,22.0,3.0,4.0
+2012,1,Italy,Visit to friends/relatives,8.9,2.0,1.0
+2012,2,Italy,Visit to friends/relatives,8.7,3.0,1.0
+2012,3,Italy,Visit to friends/relatives,9.2,2.0,1.0
+2012,4,Italy,Visit to friends/relatives,14.8,3.0,2.0
+2013,1,Italy,Visit to friends/relatives,5.7,2.0,2.0
+2013,2,Italy,Visit to friends/relatives,7.6,2.0,2.0
+2013,3,Italy,Visit to friends/relatives,12.0,3.0,1.0
+2013,4,Italy,Visit to friends/relatives,5.7,3.0,2.0
+2014,1,Italy,Visit to friends/relatives,7.5,3.0,2.0
+2014,2,Italy,Visit to friends/relatives,6.5,2.0,1.0
+2014,3,Italy,Visit to friends/relatives,8.5,3.0,1.0
+2014,4,Italy,Visit to friends/relatives,6.6,2.0,2.0
+2015,1,Italy,Visit to friends/relatives,8.5,5.0,2.0
+2015,2,Italy,Visit to friends/relatives,5.8,3.0,2.0
+2015,3,Italy,Visit to friends/relatives,10.3,5.0,2.0
+2015,4,Italy,Visit to friends/relatives,7.4,3.0,2.0
+2016,1,Italy,Visit to friends/relatives,7.3,4.0,2.0
+2016,2,Italy,Visit to friends/relatives,10.0,4.0,2.0
+2016,3,Italy,Visit to friends/relatives,7.3,8.0,2.0
+2016,4,Italy,Visit to friends/relatives,6.4,3.0,2.0
+2017,1,Italy,Visit to friends/relatives,5.7,3.0,2.0
+2017,2,Italy,Visit to friends/relatives,9.5,4.0,2.0
+2017,3,Italy,Visit to friends/relatives,8.5,5.0,2.0
+2017,4,Italy,Visit to friends/relatives,7.0,7.0,3.0
+2018,1,Italy,Visit to friends/relatives,7.6,3.0,2.0
+2018,2,Italy,Visit to friends/relatives,5.4,7.0,3.0
+2018,3,Italy,Visit to friends/relatives,13.5,5.0,2.0
+2018,4,Italy,Visit to friends/relatives,7.9,5.0,3.0
+2019,1,Italy,Visit to friends/relatives,9.5,4.0,2.0
+2019,2,Italy,Visit to friends/relatives,7.5,5.0,2.0
+2019,3,Italy,Visit to friends/relatives,9.3,4.0,2.0
+2019,4,Italy,Visit to friends/relatives,5.5,4.0,2.0
+2012,1,Other Europe (14),Business,4.9,28.0,18.0
+2012,2,Other Europe (14),Business,6.7,28.0,18.0
+2012,3,Other Europe (14),Business,6.9,30.0,21.0
+2012,4,Other Europe (14),Business,10.2,35.0,21.0
+2013,1,Other Europe (14),Business,7.7,51.0,21.0
+2013,2,Other Europe (14),Business,9.2,35.0,26.0
+2013,3,Other Europe (14),Business,8.4,29.0,20.0
+2013,4,Other Europe (14),Business,10.3,44.0,22.0
+2014,1,Other Europe (14),Business,7.4,27.0,21.0
+2014,2,Other Europe (14),Business,8.1,40.0,25.0
+2014,3,Other Europe (14),Business,10.9,37.0,26.0
+2014,4,Other Europe (14),Business,11.4,41.0,24.0
+2015,1,Other Europe (14),Business,8.3,39.0,27.0
+2015,2,Other Europe (14),Business,7.2,43.0,24.0
+2015,3,Other Europe (14),Business,10.3,40.0,22.0
+2015,4,Other Europe (14),Business,7.6,48.0,24.0
+2016,1,Other Europe (14),Business,11.0,33.0,21.0
+2016,2,Other Europe (14),Business,8.7,45.0,23.0
+2016,3,Other Europe (14),Business,12.1,44.0,23.0
+2016,4,Other Europe (14),Business,10.1,38.0,21.0
+2017,1,Other Europe (14),Business,7.0,34.0,23.0
+2017,2,Other Europe (14),Business,6.6,55.0,30.0
+2017,3,Other Europe (14),Business,9.0,46.0,23.0
+2017,4,Other Europe (14),Business,10.4,48.0,25.0
+2018,1,Other Europe (14),Business,10.4,36.0,24.0
+2018,2,Other Europe (14),Business,10.5,49.0,27.0
+2018,3,Other Europe (14),Business,11.0,41.0,23.0
+2018,4,Other Europe (14),Business,12.1,41.0,24.0
+2019,1,Other Europe (14),Business,8.7,45.0,24.0
+2019,2,Other Europe (14),Business,8.4,43.0,27.0
+2019,3,Other Europe (14),Business,8.7,51.0,28.0
+2019,4,Other Europe (14),Business,10.0,43.0,26.0
+2012,1,Other Europe (14),Holiday/leisure/recreation,5.4,26.0,16.0
+2012,2,Other Europe (14),Holiday/leisure/recreation,6.6,68.0,19.0
+2012,3,Other Europe (14),Holiday/leisure/recreation,7.9,86.0,18.0
+2012,4,Other Europe (14),Holiday/leisure/recreation,5.2,40.0,18.0
+2013,1,Other Europe (14),Holiday/leisure/recreation,4.9,33.0,20.0
+2013,2,Other Europe (14),Holiday/leisure/recreation,5.9,68.0,17.0
+2013,3,Other Europe (14),Holiday/leisure/recreation,8.3,126.0,19.0
+2013,4,Other Europe (14),Holiday/leisure/recreation,5.2,39.0,19.0
+2014,1,Other Europe (14),Holiday/leisure/recreation,4.7,30.0,18.0
+2014,2,Other Europe (14),Holiday/leisure/recreation,6.0,59.0,16.0
+2014,3,Other Europe (14),Holiday/leisure/recreation,8.3,126.0,18.0
+2014,4,Other Europe (14),Holiday/leisure/recreation,5.2,45.0,17.0
+2015,1,Other Europe (14),Holiday/leisure/recreation,4.9,28.0,16.0
+2015,2,Other Europe (14),Holiday/leisure/recreation,6.1,95.0,17.0
+2015,3,Other Europe (14),Holiday/leisure/recreation,8.2,175.0,20.0
+2015,4,Other Europe (14),Holiday/leisure/recreation,5.3,55.0,17.0
+2016,1,Other Europe (14),Holiday/leisure/recreation,4.8,45.0,18.0
+2016,2,Other Europe (14),Holiday/leisure/recreation,6.3,101.0,17.0
+2016,3,Other Europe (14),Holiday/leisure/recreation,8.1,186.0,20.0
+2016,4,Other Europe (14),Holiday/leisure/recreation,5.4,59.0,18.0
+2017,1,Other Europe (14),Holiday/leisure/recreation,4.7,39.0,17.0
+2017,2,Other Europe (14),Holiday/leisure/recreation,5.6,130.0,20.0
+2017,3,Other Europe (14),Holiday/leisure/recreation,7.9,188.0,20.0
+2017,4,Other Europe (14),Holiday/leisure/recreation,4.7,77.0,21.0
+2018,1,Other Europe (14),Holiday/leisure/recreation,5.5,56.0,19.0
+2018,2,Other Europe (14),Holiday/leisure/recreation,5.3,140.0,19.0
+2018,3,Other Europe (14),Holiday/leisure/recreation,7.8,190.0,19.0
+2018,4,Other Europe (14),Holiday/leisure/recreation,4.9,75.0,19.0
+2019,1,Other Europe (14),Holiday/leisure/recreation,4.7,54.0,20.0
+2019,2,Other Europe (14),Holiday/leisure/recreation,6.1,162.0,20.0
+2019,3,Other Europe (14),Holiday/leisure/recreation,7.6,207.0,20.0
+2019,4,Other Europe (14),Holiday/leisure/recreation,4.2,85.0,22.0
+2012,1,Other Europe (14),Other reason for journey,13.6,18.0,47.0
+2012,2,Other Europe (14),Other reason for journey,14.4,25.0,38.0
+2012,3,Other Europe (14),Other reason for journey,17.1,41.0,45.0
+2012,4,Other Europe (14),Other reason for journey,18.3,18.0,32.0
+2013,1,Other Europe (14),Other reason for journey,19.8,13.0,28.0
+2013,2,Other Europe (14),Other reason for journey,15.4,36.0,40.0
+2013,3,Other Europe (14),Other reason for journey,17.2,43.0,39.0
+2013,4,Other Europe (14),Other reason for journey,17.6,17.0,30.0
+2014,1,Other Europe (14),Other reason for journey,14.0,12.0,28.0
+2014,2,Other Europe (14),Other reason for journey,21.7,39.0,35.0
+2014,3,Other Europe (14),Other reason for journey,13.7,33.0,31.0
+2014,4,Other Europe (14),Other reason for journey,17.8,19.0,28.0
+2015,1,Other Europe (14),Other reason for journey,20.4,24.0,28.0
+2015,2,Other Europe (14),Other reason for journey,19.6,21.0,27.0
+2015,3,Other Europe (14),Other reason for journey,16.4,54.0,34.0
+2015,4,Other Europe (14),Other reason for journey,15.3,26.0,27.0
+2016,1,Other Europe (14),Other reason for journey,24.2,20.0,29.0
+2016,2,Other Europe (14),Other reason for journey,16.9,30.0,32.0
+2016,3,Other Europe (14),Other reason for journey,12.5,60.0,34.0
+2016,4,Other Europe (14),Other reason for journey,17.0,16.0,28.0
+2017,1,Other Europe (14),Other reason for journey,11.3,20.0,35.0
+2017,2,Other Europe (14),Other reason for journey,15.9,30.0,30.0
+2017,3,Other Europe (14),Other reason for journey,12.0,47.0,35.0
+2017,4,Other Europe (14),Other reason for journey,18.4,39.0,32.0
+2018,1,Other Europe (14),Other reason for journey,13.5,27.0,29.0
+2018,2,Other Europe (14),Other reason for journey,13.5,35.0,36.0
+2018,3,Other Europe (14),Other reason for journey,7.4,34.0,31.0
+2018,4,Other Europe (14),Other reason for journey,15.0,30.0,25.0
+2019,1,Other Europe (14),Other reason for journey,6.2,17.0,30.0
+2019,2,Other Europe (14),Other reason for journey,13.2,42.0,31.0
+2019,3,Other Europe (14),Other reason for journey,8.4,24.0,26.0
+2019,4,Other Europe (14),Other reason for journey,16.3,31.0,27.0
+2012,1,Other Europe (14),Visit to friends/relatives,10.5,24.0,18.0
+2012,2,Other Europe (14),Visit to friends/relatives,8.2,25.0,15.0
+2012,3,Other Europe (14),Visit to friends/relatives,11.1,20.0,11.0
+2012,4,Other Europe (14),Visit to friends/relatives,6.8,32.0,20.0
+2013,1,Other Europe (14),Visit to friends/relatives,8.0,22.0,20.0
+2013,2,Other Europe (14),Visit to friends/relatives,7.3,20.0,15.0
+2013,3,Other Europe (14),Visit to friends/relatives,9.7,28.0,13.0
+2013,4,Other Europe (14),Visit to friends/relatives,6.8,25.0,17.0
+2014,1,Other Europe (14),Visit to friends/relatives,9.2,35.0,19.0
+2014,2,Other Europe (14),Visit to friends/relatives,8.7,39.0,19.0
+2014,3,Other Europe (14),Visit to friends/relatives,9.7,31.0,13.0
+2014,4,Other Europe (14),Visit to friends/relatives,8.0,27.0,16.0
+2015,1,Other Europe (14),Visit to friends/relatives,7.8,25.0,18.0
+2015,2,Other Europe (14),Visit to friends/relatives,8.7,34.0,17.0
+2015,3,Other Europe (14),Visit to friends/relatives,11.4,32.0,13.0
+2015,4,Other Europe (14),Visit to friends/relatives,7.1,33.0,20.0
+2016,1,Other Europe (14),Visit to friends/relatives,9.8,39.0,20.0
+2016,2,Other Europe (14),Visit to friends/relatives,7.4,32.0,19.0
+2016,3,Other Europe (14),Visit to friends/relatives,10.3,34.0,13.0
+2016,4,Other Europe (14),Visit to friends/relatives,6.8,38.0,21.0
+2017,1,Other Europe (14),Visit to friends/relatives,8.2,29.0,17.0
+2017,2,Other Europe (14),Visit to friends/relatives,8.2,34.0,16.0
+2017,3,Other Europe (14),Visit to friends/relatives,9.0,36.0,13.0
+2017,4,Other Europe (14),Visit to friends/relatives,6.1,31.0,17.0
+2018,1,Other Europe (14),Visit to friends/relatives,7.4,33.0,19.0
+2018,2,Other Europe (14),Visit to friends/relatives,7.3,38.0,19.0
+2018,3,Other Europe (14),Visit to friends/relatives,8.3,35.0,14.0
+2018,4,Other Europe (14),Visit to friends/relatives,7.0,30.0,18.0
+2019,1,Other Europe (14),Visit to friends/relatives,7.2,32.0,21.0
+2019,2,Other Europe (14),Visit to friends/relatives,8.8,39.0,17.0
+2019,3,Other Europe (14),Visit to friends/relatives,8.4,40.0,15.0
+2019,4,Other Europe (14),Visit to friends/relatives,7.6,44.0,21.0
+2012,1,Other countries (24),Business,6.8,7.0,4.0
+2012,2,Other countries (24),Business,9.3,12.0,7.0
+2012,3,Other countries (24),Business,8.4,11.0,7.0
+2012,4,Other countries (24),Business,7.8,12.0,6.0
+2013,1,Other countries (24),Business,9.3,8.0,4.0
+2013,2,Other countries (24),Business,8.7,14.0,5.0
+2013,3,Other countries (24),Business,10.0,15.0,6.0
+2013,4,Other countries (24),Business,9.9,20.0,6.0
+2014,1,Other countries (24),Business,9.8,12.0,5.0
+2014,2,Other countries (24),Business,8.7,19.0,6.0
+2014,3,Other countries (24),Business,10.1,15.0,6.0
+2014,4,Other countries (24),Business,9.3,15.0,6.0
+2015,1,Other countries (24),Business,12.3,13.0,4.0
+2015,2,Other countries (24),Business,10.3,22.0,6.0
+2015,3,Other countries (24),Business,12.1,21.0,6.0
+2015,4,Other countries (24),Business,11.6,25.0,7.0
+2016,1,Other countries (24),Business,11.4,19.0,6.0
+2016,2,Other countries (24),Business,11.7,21.0,5.0
+2016,3,Other countries (24),Business,11.9,28.0,7.0
+2016,4,Other countries (24),Business,12.9,31.0,6.0
+2017,1,Other countries (24),Business,14.2,18.0,5.0
+2017,2,Other countries (24),Business,12.3,24.0,7.0
+2017,3,Other countries (24),Business,13.5,23.0,6.0
+2017,4,Other countries (24),Business,13.9,29.0,7.0
+2018,1,Other countries (24),Business,15.9,21.0,6.0
+2018,2,Other countries (24),Business,8.9,23.0,7.0
+2018,3,Other countries (24),Business,10.4,27.0,8.0
+2018,4,Other countries (24),Business,10.3,20.0,6.0
+2019,1,Other countries (24),Business,9.9,16.0,5.0
+2019,2,Other countries (24),Business,9.5,28.0,7.0
+2019,3,Other countries (24),Business,11.5,28.0,8.0
+2019,4,Other countries (24),Business,11.5,23.0,8.0
+2012,1,Other countries (24),Holiday/leisure/recreation,8.7,16.0,6.0
+2012,2,Other countries (24),Holiday/leisure/recreation,8.6,38.0,6.0
+2012,3,Other countries (24),Holiday/leisure/recreation,8.9,56.0,6.0
+2012,4,Other countries (24),Holiday/leisure/recreation,8.9,31.0,8.0
+2013,1,Other countries (24),Holiday/leisure/recreation,9.1,19.0,6.0
+2013,2,Other countries (24),Holiday/leisure/recreation,7.7,44.0,6.0
+2013,3,Other countries (24),Holiday/leisure/recreation,8.6,67.0,7.0
+2013,4,Other countries (24),Holiday/leisure/recreation,7.3,29.0,7.0
+2014,1,Other countries (24),Holiday/leisure/recreation,12.4,20.0,6.0
+2014,2,Other countries (24),Holiday/leisure/recreation,8.1,42.0,6.0
+2014,3,Other countries (24),Holiday/leisure/recreation,9.2,68.0,6.0
+2014,4,Other countries (24),Holiday/leisure/recreation,8.7,32.0,6.0
+2015,1,Other countries (24),Holiday/leisure/recreation,8.6,21.0,6.0
+2015,2,Other countries (24),Holiday/leisure/recreation,8.4,51.0,5.0
+2015,3,Other countries (24),Holiday/leisure/recreation,9.8,75.0,6.0
+2015,4,Other countries (24),Holiday/leisure/recreation,8.3,37.0,6.0
+2016,1,Other countries (24),Holiday/leisure/recreation,11.4,21.0,4.0
+2016,2,Other countries (24),Holiday/leisure/recreation,9.4,53.0,5.0
+2016,3,Other countries (24),Holiday/leisure/recreation,9.9,79.0,6.0
+2016,4,Other countries (24),Holiday/leisure/recreation,8.7,41.0,6.0
+2017,1,Other countries (24),Holiday/leisure/recreation,9.2,31.0,6.0
+2017,2,Other countries (24),Holiday/leisure/recreation,8.1,64.0,6.0
+2017,3,Other countries (24),Holiday/leisure/recreation,10.0,86.0,6.0
+2017,4,Other countries (24),Holiday/leisure/recreation,9.8,38.0,6.0
+2018,1,Other countries (24),Holiday/leisure/recreation,9.2,29.0,5.0
+2018,2,Other countries (24),Holiday/leisure/recreation,7.7,73.0,6.0
+2018,3,Other countries (24),Holiday/leisure/recreation,10.0,98.0,6.0
+2018,4,Other countries (24),Holiday/leisure/recreation,8.2,47.0,6.0
+2019,1,Other countries (24),Holiday/leisure/recreation,10.4,28.0,5.0
+2019,2,Other countries (24),Holiday/leisure/recreation,7.4,77.0,6.0
+2019,3,Other countries (24),Holiday/leisure/recreation,9.8,103.0,7.0
+2019,4,Other countries (24),Holiday/leisure/recreation,8.1,43.0,6.0
+2012,1,Other countries (24),Other reason for journey,44.3,5.0,6.0
+2012,2,Other countries (24),Other reason for journey,38.0,7.0,5.0
+2012,3,Other countries (24),Other reason for journey,36.4,6.0,3.0
+2012,4,Other countries (24),Other reason for journey,27.0,5.0,4.0
+2013,1,Other countries (24),Other reason for journey,35.5,5.0,10.0
+2013,2,Other countries (24),Other reason for journey,28.5,9.0,4.0
+2013,3,Other countries (24),Other reason for journey,29.7,10.0,7.0
+2013,4,Other countries (24),Other reason for journey,32.3,11.0,11.0
+2014,1,Other countries (24),Other reason for journey,26.8,11.0,10.0
+2014,2,Other countries (24),Other reason for journey,47.8,22.0,9.0
+2014,3,Other countries (24),Other reason for journey,18.4,11.0,8.0
+2014,4,Other countries (24),Other reason for journey,26.1,10.0,10.0
+2015,1,Other countries (24),Other reason for journey,23.9,8.0,9.0
+2015,2,Other countries (24),Other reason for journey,30.0,14.0,11.0
+2015,3,Other countries (24),Other reason for journey,21.0,18.0,7.0
+2015,4,Other countries (24),Other reason for journey,39.0,16.0,11.0
+2016,1,Other countries (24),Other reason for journey,33.8,13.0,11.0
+2016,2,Other countries (24),Other reason for journey,32.9,21.0,7.0
+2016,3,Other countries (24),Other reason for journey,24.1,29.0,7.0
+2016,4,Other countries (24),Other reason for journey,32.8,13.0,11.0
+2017,1,Other countries (24),Other reason for journey,33.1,14.0,12.0
+2017,2,Other countries (24),Other reason for journey,19.8,15.0,6.0
+2017,3,Other countries (24),Other reason for journey,20.9,41.0,9.0
+2017,4,Other countries (24),Other reason for journey,49.4,17.0,9.0
+2018,1,Other countries (24),Other reason for journey,36.5,27.0,14.0
+2018,2,Other countries (24),Other reason for journey,29.5,18.0,6.0
+2018,3,Other countries (24),Other reason for journey,22.2,17.0,9.0
+2018,4,Other countries (24),Other reason for journey,24.5,15.0,10.0
+2019,1,Other countries (24),Other reason for journey,29.4,13.0,8.0
+2019,2,Other countries (24),Other reason for journey,26.6,17.0,6.0
+2019,3,Other countries (24),Other reason for journey,16.6,11.0,9.0
+2019,4,Other countries (24),Other reason for journey,33.2,15.0,12.0
+2012,1,Other countries (24),Visit to friends/relatives,19.9,19.0,6.0
+2012,2,Other countries (24),Visit to friends/relatives,15.5,22.0,6.0
+2012,3,Other countries (24),Visit to friends/relatives,17.1,24.0,6.0
+2012,4,Other countries (24),Visit to friends/relatives,13.3,16.0,5.0
+2013,1,Other countries (24),Visit to friends/relatives,18.3,18.0,6.0
+2013,2,Other countries (24),Visit to friends/relatives,15.1,24.0,6.0
+2013,3,Other countries (24),Visit to friends/relatives,18.0,37.0,7.0
+2013,4,Other countries (24),Visit to friends/relatives,14.8,29.0,6.0
+2014,1,Other countries (24),Visit to friends/relatives,17.5,31.0,7.0
+2014,2,Other countries (24),Visit to friends/relatives,14.4,33.0,6.0
+2014,3,Other countries (24),Visit to friends/relatives,18.5,51.0,8.0
+2014,4,Other countries (24),Visit to friends/relatives,15.1,30.0,6.0
+2015,1,Other countries (24),Visit to friends/relatives,17.8,28.0,7.0
+2015,2,Other countries (24),Visit to friends/relatives,13.0,37.0,7.0
+2015,3,Other countries (24),Visit to friends/relatives,20.1,57.0,8.0
+2015,4,Other countries (24),Visit to friends/relatives,14.7,38.0,7.0
+2016,1,Other countries (24),Visit to friends/relatives,17.4,39.0,7.0
+2016,2,Other countries (24),Visit to friends/relatives,14.8,37.0,7.0
+2016,3,Other countries (24),Visit to friends/relatives,17.6,51.0,7.0
+2016,4,Other countries (24),Visit to friends/relatives,13.7,28.0,6.0
+2017,1,Other countries (24),Visit to friends/relatives,17.4,37.0,8.0
+2017,2,Other countries (24),Visit to friends/relatives,14.5,41.0,8.0
+2017,3,Other countries (24),Visit to friends/relatives,17.3,62.0,9.0
+2017,4,Other countries (24),Visit to friends/relatives,17.0,38.0,6.0
+2018,1,Other countries (24),Visit to friends/relatives,17.6,33.0,7.0
+2018,2,Other countries (24),Visit to friends/relatives,14.2,40.0,6.0
+2018,3,Other countries (24),Visit to friends/relatives,17.9,64.0,10.0
+2018,4,Other countries (24),Visit to friends/relatives,15.4,35.0,7.0
+2019,1,Other countries (24),Visit to friends/relatives,17.5,43.0,9.0
+2019,2,Other countries (24),Visit to friends/relatives,14.0,39.0,7.0
+2019,3,Other countries (24),Visit to friends/relatives,16.6,61.0,9.0
+2019,4,Other countries (24),Visit to friends/relatives,14.2,39.0,7.0
+2012,1,United States and Canada,Business,6.9,16.0,7.0
+2012,2,United States and Canada,Business,5.8,25.0,10.0
+2012,3,United States and Canada,Business,6.5,21.0,10.0
+2012,4,United States and Canada,Business,10.6,29.0,12.0
+2013,1,United States and Canada,Business,4.9,16.0,9.0
+2013,2,United States and Canada,Business,8.6,20.0,8.0
+2013,3,United States and Canada,Business,7.8,20.0,9.0
+2013,4,United States and Canada,Business,6.4,24.0,9.0
+2014,1,United States and Canada,Business,6.3,18.0,9.0
+2014,2,United States and Canada,Business,6.5,29.0,9.0
+2014,3,United States and Canada,Business,7.0,24.0,11.0
+2014,4,United States and Canada,Business,6.1,21.0,7.0
+2015,1,United States and Canada,Business,6.2,26.0,8.0
+2015,2,United States and Canada,Business,7.0,32.0,11.0
+2015,3,United States and Canada,Business,7.1,24.0,8.0
+2015,4,United States and Canada,Business,6.4,31.0,9.0
+2016,1,United States and Canada,Business,5.5,29.0,10.0
+2016,2,United States and Canada,Business,4.9,32.0,10.0
+2016,3,United States and Canada,Business,7.1,33.0,11.0
+2016,4,United States and Canada,Business,5.3,36.0,11.0
+2017,1,United States and Canada,Business,5.9,31.0,11.0
+2017,2,United States and Canada,Business,6.7,37.0,9.0
+2017,3,United States and Canada,Business,7.8,42.0,11.0
+2017,4,United States and Canada,Business,7.4,41.0,11.0
+2018,1,United States and Canada,Business,4.7,32.0,10.0
+2018,2,United States and Canada,Business,6.3,37.0,11.0
+2018,3,United States and Canada,Business,7.7,47.0,13.0
+2018,4,United States and Canada,Business,5.9,32.0,11.0
+2019,1,United States and Canada,Business,5.2,24.0,8.0
+2019,2,United States and Canada,Business,5.9,25.0,9.0
+2019,3,United States and Canada,Business,6.4,32.0,9.0
+2019,4,United States and Canada,Business,8.3,31.0,9.0
+2012,1,United States and Canada,Holiday/leisure/recreation,6.8,53.0,19.0
+2012,2,United States and Canada,Holiday/leisure/recreation,7.9,145.0,21.0
+2012,3,United States and Canada,Holiday/leisure/recreation,7.9,229.0,25.0
+2012,4,United States and Canada,Holiday/leisure/recreation,7.5,92.0,22.0
+2013,1,United States and Canada,Holiday/leisure/recreation,6.4,61.0,19.0
+2013,2,United States and Canada,Holiday/leisure/recreation,7.5,174.0,24.0
+2013,3,United States and Canada,Holiday/leisure/recreation,8.0,255.0,25.0
+2013,4,United States and Canada,Holiday/leisure/recreation,7.7,92.0,21.0
+2014,1,United States and Canada,Holiday/leisure/recreation,6.7,53.0,18.0
+2014,2,United States and Canada,Holiday/leisure/recreation,7.0,186.0,25.0
+2014,3,United States and Canada,Holiday/leisure/recreation,8.1,315.0,26.0
+2014,4,United States and Canada,Holiday/leisure/recreation,6.8,111.0,23.0
+2015,1,United States and Canada,Holiday/leisure/recreation,6.8,69.0,18.0
+2015,2,United States and Canada,Holiday/leisure/recreation,7.1,269.0,25.0
+2015,3,United States and Canada,Holiday/leisure/recreation,8.2,384.0,25.0
+2015,4,United States and Canada,Holiday/leisure/recreation,7.5,148.0,21.0
+2016,1,United States and Canada,Holiday/leisure/recreation,6.5,77.0,16.0
+2016,2,United States and Canada,Holiday/leisure/recreation,6.9,292.0,25.0
+2016,3,United States and Canada,Holiday/leisure/recreation,7.9,388.0,25.0
+2016,4,United States and Canada,Holiday/leisure/recreation,7.3,206.0,26.0
+2017,1,United States and Canada,Holiday/leisure/recreation,6.6,84.0,19.0
+2017,2,United States and Canada,Holiday/leisure/recreation,7.1,362.0,28.0
+2017,3,United States and Canada,Holiday/leisure/recreation,7.9,460.0,29.0
+2017,4,United States and Canada,Holiday/leisure/recreation,7.0,217.0,25.0
+2018,1,United States and Canada,Holiday/leisure/recreation,6.6,114.0,21.0
+2018,2,United States and Canada,Holiday/leisure/recreation,6.7,381.0,28.0
+2018,3,United States and Canada,Holiday/leisure/recreation,7.8,554.0,31.0
+2018,4,United States and Canada,Holiday/leisure/recreation,7.2,284.0,29.0
+2019,1,United States and Canada,Holiday/leisure/recreation,6.3,130.0,22.0
+2019,2,United States and Canada,Holiday/leisure/recreation,6.9,446.0,30.0
+2019,3,United States and Canada,Holiday/leisure/recreation,7.1,529.0,29.0
+2019,4,United States and Canada,Holiday/leisure/recreation,5.8,185.0,23.0
+2012,1,United States and Canada,Other reason for journey,8.7,8.0,12.0
+2012,2,United States and Canada,Other reason for journey,11.0,17.0,18.0
+2012,3,United States and Canada,Other reason for journey,10.3,15.0,9.0
+2012,4,United States and Canada,Other reason for journey,13.3,7.0,7.0
+2013,1,United States and Canada,Other reason for journey,9.7,9.0,22.0
+2013,2,United States and Canada,Other reason for journey,8.0,24.0,15.0
+2013,3,United States and Canada,Other reason for journey,4.9,10.0,10.0
+2013,4,United States and Canada,Other reason for journey,15.3,15.0,16.0
+2014,1,United States and Canada,Other reason for journey,6.3,10.0,18.0
+2014,2,United States and Canada,Other reason for journey,6.3,22.0,16.0
+2014,3,United States and Canada,Other reason for journey,3.0,9.0,11.0
+2014,4,United States and Canada,Other reason for journey,8.2,15.0,15.0
+2015,1,United States and Canada,Other reason for journey,5.7,10.0,12.0
+2015,2,United States and Canada,Other reason for journey,9.8,38.0,21.0
+2015,3,United States and Canada,Other reason for journey,3.0,12.0,11.0
+2015,4,United States and Canada,Other reason for journey,9.0,18.0,16.0
+2016,1,United States and Canada,Other reason for journey,6.4,12.0,14.0
+2016,2,United States and Canada,Other reason for journey,5.8,41.0,19.0
+2016,3,United States and Canada,Other reason for journey,3.0,19.0,14.0
+2016,4,United States and Canada,Other reason for journey,9.3,27.0,20.0
+2017,1,United States and Canada,Other reason for journey,2.3,7.0,14.0
+2017,2,United States and Canada,Other reason for journey,5.9,37.0,25.0
+2017,3,United States and Canada,Other reason for journey,2.3,19.0,14.0
+2017,4,United States and Canada,Other reason for journey,5.7,23.0,17.0
+2018,1,United States and Canada,Other reason for journey,3.9,14.0,17.0
+2018,2,United States and Canada,Other reason for journey,4.9,28.0,24.0
+2018,3,United States and Canada,Other reason for journey,2.1,20.0,22.0
+2018,4,United States and Canada,Other reason for journey,4.2,19.0,19.0
+2019,1,United States and Canada,Other reason for journey,2.7,13.0,18.0
+2019,2,United States and Canada,Other reason for journey,4.2,33.0,23.0
+2019,3,United States and Canada,Other reason for journey,1.8,14.0,21.0
+2019,4,United States and Canada,Other reason for journey,9.0,49.0,23.0
+2012,1,United States and Canada,Visit to friends/relatives,10.6,19.0,9.0
+2012,2,United States and Canada,Visit to friends/relatives,10.3,22.0,9.0
+2012,3,United States and Canada,Visit to friends/relatives,11.2,22.0,8.0
+2012,4,United States and Canada,Visit to friends/relatives,10.6,21.0,8.0
+2013,1,United States and Canada,Visit to friends/relatives,9.6,16.0,8.0
+2013,2,United States and Canada,Visit to friends/relatives,9.7,22.0,9.0
+2013,3,United States and Canada,Visit to friends/relatives,12.0,44.0,11.0
+2013,4,United States and Canada,Visit to friends/relatives,8.6,22.0,7.0
+2014,1,United States and Canada,Visit to friends/relatives,9.9,27.0,9.0
+2014,2,United States and Canada,Visit to friends/relatives,8.0,30.0,8.0
+2014,3,United States and Canada,Visit to friends/relatives,11.2,42.0,10.0
+2014,4,United States and Canada,Visit to friends/relatives,8.5,25.0,8.0
+2015,1,United States and Canada,Visit to friends/relatives,9.2,21.0,7.0
+2015,2,United States and Canada,Visit to friends/relatives,8.7,35.0,9.0
+2015,3,United States and Canada,Visit to friends/relatives,10.8,50.0,11.0
+2015,4,United States and Canada,Visit to friends/relatives,9.7,30.0,8.0
+2016,1,United States and Canada,Visit to friends/relatives,9.4,27.0,8.0
+2016,2,United States and Canada,Visit to friends/relatives,7.9,29.0,8.0
+2016,3,United States and Canada,Visit to friends/relatives,10.8,54.0,11.0
+2016,4,United States and Canada,Visit to friends/relatives,8.8,34.0,9.0
+2017,1,United States and Canada,Visit to friends/relatives,9.3,30.0,9.0
+2017,2,United States and Canada,Visit to friends/relatives,8.0,40.0,11.0
+2017,3,United States and Canada,Visit to friends/relatives,10.1,59.0,13.0
+2017,4,United States and Canada,Visit to friends/relatives,7.3,35.0,9.0
+2018,1,United States and Canada,Visit to friends/relatives,8.6,35.0,10.0
+2018,2,United States and Canada,Visit to friends/relatives,7.5,46.0,10.0
+2018,3,United States and Canada,Visit to friends/relatives,9.6,60.0,13.0
+2018,4,United States and Canada,Visit to friends/relatives,7.7,31.0,9.0
+2019,1,United States and Canada,Visit to friends/relatives,9.4,33.0,11.0
+2019,2,United States and Canada,Visit to friends/relatives,7.8,42.0,10.0
+2019,3,United States and Canada,Visit to friends/relatives,10.2,68.0,13.0
+2019,4,United States and Canada,Visit to friends/relatives,6.8,37.0,9.0
